@@ -1,0 +1,18 @@
+.container{
+    border: 8px solid black;
+}
+.container-fluid{
+    border:8px solid black;
+}
+
+
+.row{
+    border: 5px solid blue;
+}
+.col{
+    border: 5px solid orange;
+}
+.div1{
+    height: 50px;
+    width: 50px;
+}

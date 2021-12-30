@@ -1,0 +1,200 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    height: 70px;
+    width: 100%;
+    background-color: #E7F0E4;
+    color: black;
+}
+.brand-logo{
+    height: 60px;
+    width: 200px;
+    margin-left: 261px;
+}
+.img2{
+    height:770px;
+    width: 100%;
+    background-position: 50%;
+
+    margin-top:-12%;
+    overflow: hidden;
+}
+.card-img{
+    height: 50px;
+    width: 50px;
+    margin-top: 24px;
+    
+} 
+.card{
+    height: 242px;
+    width: 407px;
+    background-color: #b0bec5;
+    text-align: center;
+    border: violet;
+    
+}
+
+.div{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 10px solid #00e5ff;
+    background: #b0bec5;
+    margin-left: 145px; 
+    margin-top: 24px;
+}
+.div1{
+    margin-top: 35px;
+}
+h1 {
+    font-size: 45px;
+    margin-top: 55px;
+}
+strong{
+    font-weight: 510;
+    font-size: 45px;
+    margin-left: 758px;
+    margin-top: 50px;
+}
+.div12{
+    display: flex;
+}
+.bg-color{
+    background-color: #b0bec5;
+}
+.container-box{
+    margin-left: 186px;
+    margin-right: 170px;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.bg-color1{
+    background-color:brown;
+    height: 300px;
+}
+.card-img1{
+    height: 80px;
+    width: 80px;
+  
+}
+.h12{
+    margin-left: 80px;
+    margin-top: -57px;
+   
+}
+.h13{
+    margin-left: 80px;
+    margin-top: -55px;
+}
+.h14{
+    margin-left:80px ;
+    margin-top: -55px;
+}
+.card-img11{
+    margin-left: 1055px;
+    margin-top: -55px;
+    height: 80px;
+    width: 80px;
+
+}
+.container-box1{
+    margin-top:  15px;
+    margin-left: 220px;
+   
+}.footar-logo{
+    height: 60px;
+    width: 200px;
+    margin-left: 120px;
+}
+.container-box2{
+    margin-top: 25px;
+    /* background-color: black; */
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.footar{
+    color:black;
+    background-color:#362e22;;
+}
+/* .footer1{
+    background-color: white;
+    color: blanchedalmond;
+} */
+
+.insta-icon{
+    height: 50px;
+    width: 50px;
+    margin-left: 565px;
+    color: darkslategrey;
+}
+/* .nav{
+    margin-left: 1030px;
+    margin-top: -35px;
+}
+.nam{
+    margin-left: 1112px;
+    margin-top: -35px;
+}
+.nav3{
+    margin-left: 1220px;
+    margin-top: -35px;
+}
+.nav4{
+    margin-left: 1443px;
+    margin-top: -54px;
+}  */
+/* .nav-link1 disabled{
+    color: black;
+    margin-left: 20px;
+} */
+/* .nav{
+    position: relative;
+    left: 1228px;
+    bottom:36px;
+    font-size:15px;
+    
+} */
+.nav{
+    margin-left:1228px ;
+    margin-top:-39px ;
+    font: size 15px; ;
+}
+/* css for about is */
+
+
+.scooter{
+    height: 400px;
+    width: 400px;
+}
+.para{
+    font-size: 18px;
+    /* line-height: 1; */
+}
+.p1{
+    /* line-height: 1; */
+    margin-top: 38px;
+}
+.para12{
+    
+    margin-top:-72px;
+    margin-right: 20px;
+
+}
+.img-scooter{
+    position: relative;
+    right: 137px;
+}
+.f{
+    margin-top: 129px;
+}
+.p{
+    /* text-align: center; */
+    margin-top: 20px;
+}
+
+
